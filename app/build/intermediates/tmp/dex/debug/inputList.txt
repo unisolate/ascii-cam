@@ -1,0 +1,2 @@
+/Users/Uni/Documents/android/ascii-cam/app/build/intermediates/classes/debug
+/Users/Uni/Documents/android/ascii-cam/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-da3102c567007ee14a7788e5aefdb05382f556fc.jar
